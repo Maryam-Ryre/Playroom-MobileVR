@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.XR.Cardboard", "Google.XR.Cardboard.csproj", "{15FD902F-EB84-2531-AE58-525724D9E0D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{772DD111-86DD-F221-3057-35771F048063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.XR.Cardboard.Editor", "Google.XR.Cardboard.Editor.csproj", "{D631DF37-C537-724A-75ED-74431A80EEA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15FD902F-EB84-2531-AE58-525724D9E0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15FD902F-EB84-2531-AE58-525724D9E0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15FD902F-EB84-2531-AE58-525724D9E0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15FD902F-EB84-2531-AE58-525724D9E0D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{772DD111-86DD-F221-3057-35771F048063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772DD111-86DD-F221-3057-35771F048063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772DD111-86DD-F221-3057-35771F048063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772DD111-86DD-F221-3057-35771F048063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D631DF37-C537-724A-75ED-74431A80EEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D631DF37-C537-724A-75ED-74431A80EEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D631DF37-C537-724A-75ED-74431A80EEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D631DF37-C537-724A-75ED-74431A80EEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
